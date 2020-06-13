@@ -1,0 +1,142 @@
+[
+    {
+        "Id": 1,
+        "Question": "Which is the largest country in the world ?",
+        "AnswerOptions": ["USA", "Canada", "China", "Russia"],
+        "Answer" : "Russia",
+        "Score": 5
+    },
+    {
+        "Id": 2,
+        "Question": "Which is the biggest island in the world ?",
+        "AnswerOptions": ["New Guinea", "Greenland", "Kaliantan", "Madagascar"],
+        "Answer" : "Greenland",
+        "Score": 5
+    },
+    {
+        "Id": 3,
+        "Question": "Which is the highest waterfall in the world ?",
+        "AnswerOptions": ["Niagara", "Angel", "Tugela", "Iguazu"],
+        "Answer" : "Angel",
+        "Score": 5
+    },
+    {
+        "Id": 4,
+        "Question": "Which is the highest mountain in the world ?",
+        "AnswerOptions": ["Kilimanjaro", "Everest", "Mckinley", "Mont Blanc"],
+        "Answer" : "Everest",
+        "Score": 5
+    },
+    {
+        "Id": 5,
+        "Question": "Which is the smallest bird in the world ?",
+        "AnswerOptions": ["Yellow-billed chough", "Sparrow", "Swallow", "Hummingbird"],
+        "Answer" : "Hummingbird",
+        "Score": 10
+    },
+    {
+        "Id": 6,
+        "Question": "Which is the fastest running animal in the world ?",
+        "AnswerOptions": ["Leopard", "Hepard", "Rabbit", "Squirrel"],
+        "Answer" : "Hepard",
+        "Score": 5
+    },
+    {
+        "Id": 7,
+        "Question": "Which is the driest continent in the world ?",
+        "AnswerOptions": ["Africa", "Australia", "North America", "South America"],
+        "Answer" : "Australia",
+        "Score": 10
+    },
+    {
+        "Id": 8,
+        "Question": "Which river has the most polluted water ?",
+        "AnswerOptions": ["Ganges", "Mississippi", "Rhine", "Congo"],
+        "Answer" : "Rhine",
+        "Score": 10
+    },
+    {
+        "Id": 9,
+        "Question": "Which is the biggest planet ?",
+        "AnswerOptions": ["Saturn", "Jupiter", "Venus", "Mercury"],
+        "Answer" : "Jupiter",
+        "Score": 5
+    },
+    {
+        "Id": 10,
+        "Question": "Which is the hottest place in the world ?",
+        "AnswerOptions": ["Death Valley, USA", "Dead Sea, Israel", "Red Sea", "Congo"],
+        "Answer" : "Death Valley, USA",
+        "Score": 15
+    },
+    {
+        "Id": 11,
+        "Question": "Which is the longest strait in the world?",
+        "AnswerOptions": ["Magellan", "Bosporus", "Drake", "Mozambique"],
+        "Answer" : "Mozambique",
+        "Score": 15
+    },
+    {
+        "Id": 12,
+        "Question": "Which is the most abundant waterfall in the world ?",
+        "AnswerOptions": ["Niagara", "Victoria", "Angel", "Iguazu"],
+        "Answer" : "Niagara",
+        "Score": 10
+    },
+    {
+        "Id": 13,
+        "Question": "How much does the most expensive tea cost ?",
+        "AnswerOptions": ["1.000.000 $", "685.000 $", "755.000 $", "100.000 $"],
+        "Answer" : "685.000 $",
+        "Score": 10
+    },
+    {
+        "Id": 14,
+        "Question": "How many letters does the world's longest human name have ?",
+        "AnswerOptions": ["90", "190", "290", "500"],
+        "Answer" : "190",
+        "Score": 10
+    },
+    {
+        "Id": 15,
+        "Question": "Which is the biggest land predator in the world ?",
+        "AnswerOptions": ["Tiger", "Lion", "White Bear", "Bear"],
+        "Answer" : "White Bear",
+        "Score": 10
+    },
+    {
+        "Id": 16,
+        "Question": "What sizes does the smallest book have ?",
+        "AnswerOptions": ["0.75 X 0.75 mm, Japan", "0.75 x .75 cm, Japan", "1 x 1 cm, China", "1.5 x 1.5 mm, Bangladesh"],
+        "Answer" : "0.75 X 0.75 mm, Japan",
+        "Score": 15
+    },
+    {
+        "Id": 17,
+        "Question": "Where is the smallest city situated ?",
+        "AnswerOptions": ["Croatia", "Italy", "Serbia", "Czech"],
+        "Answer" : "Croatia",
+        "Score": 15
+    },
+    {
+        "Id": 18,
+        "Question": "Which is the biggest mammal in the world ?",
+        "AnswerOptions": ["Giraffe", "Hippopotamus", "Elephant", "Blue Kit"],
+        "Answer" : "Blue Kit",
+        "Score": 10
+    },
+    {
+        "Id": 19,
+        "Question": "Which country has the longest alphabet ?",
+        "AnswerOptions": ["China", "Saudi Arabia", "Vietnam", "Cambodia"],
+        "Answer" : "Cambodia",
+        "Score": 15
+    },
+    {
+        "Id": 20,
+        "Question": "Which is the smallest sea ?",
+        "AnswerOptions": ["Sargasso", "Adriatic", "Bering", "Marmara"],
+        "Answer" : "Marmara",
+        "Score": 15
+    }
+]
